@@ -10,7 +10,7 @@
 $languageStrings = [
     'Calendar'                                           => 'Calendar',
     'SINGLE_Calendar'                                    => 'Compito',
-    'LBL_ADD_TASK'                                       => 'Add Compito',
+    'LBL_ADD_TASK'                                       => 'Aggiungi compito',
     'LBL_ADD_EVENT'                                      => 'Aggiungi Evento',
     'LBL_RECORDS_LIST'                                   => 'Vista per Lista',
     'LBL_EVENTS'                                         => 'Eventi',
